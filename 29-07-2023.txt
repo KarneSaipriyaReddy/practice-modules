@@ -1,3 +1,13 @@
 This is a dummy file I want to push to GitHub
 
 I created dev branch
+
+git init
+git status
+git add .
+git commit -m "Message"
+git branch <new_branch_name>
+git checkout <branch_name>
+git push
+git pull
+git checkout -b <new_branch_name>
