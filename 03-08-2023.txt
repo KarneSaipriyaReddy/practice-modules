@@ -1,0 +1,5 @@
+Python is called as General Purpose lang, in other terms wecan define Python as Interpreted , Object Oriented & high level lang
+5 / 2 = 2.5
+5 // 2 = 2.0 : this is called integer divison or floor divison
+Modular divison ( % ) is used when the reminder value is 1
+ctrl + r is used for refreshing a webpage
