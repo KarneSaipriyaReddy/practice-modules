@@ -16,3 +16,4 @@ print(per_day_rent)
 print(type(per_day_rent))
 att = dir()
 print(att)
+
